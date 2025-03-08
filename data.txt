@@ -1,0 +1,4 @@
+Hello, this is my first file!
+I am learning AI with Python.
+Python is great for AI development.
+Let's build some cool AI projects!
